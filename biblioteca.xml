@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<biblioteca>
+    <libro id="L2930" tipo_clase="novela">
+        <título>El conde de Montrecristo</título>
+        <capitulo>
+            <titulo>Capitulo 1</titulo>
+        </capitulo>
+        <capitulo>
+            <titulo>Capitulo 2</titulo>
+        </capitulo>
+        <capitulo>
+            <titulo>Capitulo 3</titulo>
+        </capitulo>
+    </libro>
+    <revista id="Rw232" tipo_clase="investigación" numero_pag="25">
+        <titulo>Investigación y Ciencia</titulo>
+        <numero_revista>#34339553</numero_revista>
+        <indice></indice>
+        <seccion numero_pag="4">
+            <contenido enlace="https://elpais.com/elpais/2019/11/15/ciencia/1573832740_086450.html"></contenido>
+        </seccion>
+        <seccion numero_pag="4">
+            <contenido enlace="https://elpais.com/elpais/2019/11/15/ciencia/1573832740_086450.html"></contenido>
+        </seccion>
+        <seccion numero_pag="4">
+            <contenido enlace="https://elpais.com/elpais/2019/11/15/ciencia/1573832740_086450.html"></contenido>
+        </seccion>
+    </revista>
+    <periodico id="P34g5" tipo_clase="nacional" fecha_publicacion="22/05/2022">
+        <indice></indice>
+        <seccion tipo="económica">
+            <articulo autor="Pepe Pérez">
+                <contenido ref=""></contenido>
+            </articulo>
+        </seccion>
+    </periodico>
+</biblioteca>
