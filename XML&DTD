@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <!-- **********************************************  -->
-<!-- DEFINICIÓ“N DEL TIPO DE DOCUMENTO -->
+<!-- DEFINICIÓN DEL TIPO DE DOCUMENTO -->
 <!DOCTYPE factura [
 <!-- Definición de elementos -->
 <!ELEMENT factura (datos_empresa, datos_cliente, datos_factura)>
@@ -38,8 +38,7 @@ SOLUCION XML. DTDAvanzadas_01_factura.xml
 <!ATTLIST datos_factura moneda CDATA #FIXED "euro">
 <!ATTLIST poblacion cod_postal CDATA "">
 ]>
-<!-- ********************************************** 
->
+<!-- ********************************************** -->
 <!-- EJEMPLAR DOCUMENTO XML -->
 <factura n_fac="f999">
 <datos_empresa>
